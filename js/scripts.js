@@ -1,10 +1,4 @@
-﻿// var name = prompt('Wpisz Swoje Imię');
-// alert('Witaj, ' + name);
-
-// console.log('Witaj, ' + name);
-
-
-
+﻿
 var triangleArea;
 var a = prompt('Podaj Wartość dla : a');
 var h = prompt('Podaj Wartość dla : h');
